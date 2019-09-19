@@ -23,3 +23,6 @@ Install all dependencies:
 
 Run the python code
        python main.py
+       
+    
+For the reference, python notebook's pdf has been attached.
